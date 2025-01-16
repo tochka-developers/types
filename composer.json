@@ -31,14 +31,5 @@
     "scripts": {
         "pint": "vendor/bin/pint",
         "psalm": "vendor/bin/psalm --output-format=phpstorm --no-cache"
-    },
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "https://flexus.bank24.int/repository/composer-public/"
-        },
-        {
-            "packagist": false
-        }
-    ]
+    }
 }
