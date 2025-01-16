@@ -1,6 +1,7 @@
 {
     "name": "tochka-developers/types",
     "description": "Extended type system for PHP",
+    "license": "MIT",
     "type": "package",
     "authors": [
         {
